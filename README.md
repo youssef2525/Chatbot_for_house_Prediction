@@ -40,7 +40,7 @@ To use the chatbot, price prediction model, or Flask application, follow the ins
    ```shell
    python chatbot_build.py
 
-   ### Price Prediction Model
+### Price Prediction Model
 
 1. Navigate to the `PricePrediction model` folder.
 
